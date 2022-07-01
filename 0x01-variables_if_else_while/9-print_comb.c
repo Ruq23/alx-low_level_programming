@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - prints all possible combinations of single-digit numbers
  * reverse followed by a new line
  * Return: always 0

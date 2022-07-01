@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - prints all possible different combinations of three digits
  * numbers must be separated by ,, followed by a space
  * Return 0 always

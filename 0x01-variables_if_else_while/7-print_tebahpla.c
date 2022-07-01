@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - prints the alphabet in lowercase prints the lowercase alphabet in
  * reverse followed by a new line
  * Return: always 0

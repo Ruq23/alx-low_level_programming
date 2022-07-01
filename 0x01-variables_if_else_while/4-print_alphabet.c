@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - prints the alphabet in lowercase, except q and e
  * followed by a new line
  * Return: always 0

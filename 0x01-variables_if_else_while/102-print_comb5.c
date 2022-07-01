@@ -11,11 +11,11 @@ int ch;
 int n;
 for (ch = 0; ch <= 100; ch++)
 {
-for (n =0; n <= 100; n++)
+for (n = 0; n <= 100; n++)
 {
 if (ch < n)
 {
-putchar((ch /10) + 48);
+putchar((ch / 10) + 48);
 putchar((ch % 10) + 48);
 putchar(' ');
 putchar((n / 10) + 48);
