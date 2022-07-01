@@ -9,9 +9,9 @@ int main(void)
 {
 int ch;
 int n;
-for (ch = 48; ch <=57; ch++)
+for (ch = 0; ch <= 100; ch++)
 {
-for (n =49; n <= 57; n++)
+for (n =0; n <= 100; n++)
 {
 if (ch < n)
 {
