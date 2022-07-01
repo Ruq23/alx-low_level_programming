@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
  * main - prints all possible different combinations of three digits
- * numbers must be separated by ,, followed by a space
- * Return 0 always
+ * return 0 always
 */
-
 int main(void)
 {
 int ch;
@@ -21,15 +19,16 @@ if (n > ch && p > n)
 putchar (ch);
 putchar (n);
 putchar(p);
-if (ch != 55 || n != 56 || p != 57)
+if (ch != 55 || n != 56)
 {
-putchar(44);
-putchar(32);
+putchar(',');
+putchar(' ');
 }
 }
 }
 }
 }
 
+putchar('\n');
 return (0);
 }

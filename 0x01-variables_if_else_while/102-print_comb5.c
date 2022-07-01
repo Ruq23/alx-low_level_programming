@@ -19,7 +19,7 @@ putchar((ch / 10) + 48);
 putchar((ch % 10) + 48);
 putchar(' ');
 putchar((n / 10) + 48);
-putchar((j % 10) + 48);
+putchar((n % 10) + 48);
 if (ch != 98 || n != 99)
 {
 putchar(',');
@@ -28,6 +28,6 @@ putchar(' ');
 }
 }
 }
-putchar('\n')
-return (0)
+putchar('\n');
+return (0);
 }
