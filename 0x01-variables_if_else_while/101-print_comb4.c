@@ -14,9 +14,9 @@ for (ch = 48; ch <= 57; ch++)
 {
 for (n = 49; n <= 57; n++)
 {
-for (p = 50; = <= 57; p++)
+for (p = 50; p <= 57; p++)
 {
-if (n > c && p > n)
+if (n > ch && p > n)
 {
 putchar (ch);
 putchar (n);
