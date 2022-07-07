@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 /**
-* fizz_buzz - function that prints 1 -100
+* main - function that prints 1 -100
 * Return: Success multiple of 3 fizz 5 buzz 3&5 fizzbuzz
 */
 
-int main (void)
+int main(void)
 {
 	int x;
 
@@ -35,5 +35,5 @@ int main (void)
 	}
 	printf("\n");
 
-	return(0);
+	return (0);
 }
