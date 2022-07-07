@@ -6,7 +6,7 @@
 * Return: Success multiple of 3 fizz 5 buzz 3&5 fizzbuzz
 */
 
-void fizz_buzz(void)
+int main (void)
 {
 	int x;
 
