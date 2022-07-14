@@ -3,8 +3,7 @@
 
 /**
 * string_toupper - function that converts string to upper
-* @s1: first argument
-* @s2: second argument
+* @x: first argument
 * Return: a string
 */
 
